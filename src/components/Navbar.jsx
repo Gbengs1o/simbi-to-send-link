@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <nav className='p-5 bg-white flex justify-between'>
+        <nav className='p-5 bg-[rgba(255,255,255,0.5)] flex justify-between fixed w-[375px]'>
             <div className='flex w-full text-theme-purple font-corsa gap-2 items-center'>
                 <div>
                     <img src="/android-chrome-512x512.png" alt="Simbi logistics" className='w-10' />

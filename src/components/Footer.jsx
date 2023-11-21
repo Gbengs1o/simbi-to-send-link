@@ -8,7 +8,7 @@ const socials = [LinkedIn, Instagram, Twitter, Whatsapp]
 
 const Footer = () => {
     return (
-        <footer className='bg-[#f6f6f7] grid items-center gap-10 p-10 font-corsa text-theme-purple tracking-wide text-[14px]'>
+        <footer className='bg-[#f6f6f7] fixed bottom-0 w-[375px] grid items-center gap-10 p-10 font-corsa text-theme-purple tracking-wide text-[14px]'>
             <div className='mx-auto grid gap-5'>
                 <div className='flex w-full text-theme-purple font-corsa gap-2 items-center justify-center'>
                     <div>
@@ -34,7 +34,7 @@ const Footer = () => {
                     socials.map((icon, index) => {
                         return (
                             <a href="#" key={index}>
-                                <img src={icon} alt='' className='w-5' />
+                                <img src={icon} alt='' className='w-6' />
                             </a>
                         )
                     })
