@@ -1,0 +1,17 @@
+[33mcommit e7819b655b705aceed3c7407319d592bc1c6c91b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gbengs1o <davidogunkoya80@gmail.com>
+Date:   Sun Nov 26 15:36:15 2023 -0800
+
+    Add deployment scripts for GitHub Pages
+
+[33mcommit 0b826ab453d9bde7edbd07b5d346bbeff5c3882b[m
+Author: Taiwo Jolomi <taiwojolomi15@gmail.com>
+Date:   Tue Nov 21 01:47:52 2023 +0100
+
+    fixes
+
+[33mcommit bf162cf9624d212212dc0c7ec247023f49f28f06[m
+Author: Taiwo Jolomi <taiwojolomi15@gmail.com>
+Date:   Tue Nov 21 01:27:11 2023 +0100
+
+    Test website
